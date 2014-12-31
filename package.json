@@ -1,5 +1,5 @@
 {
-  "name": "placeholderimg-middleware",
+  "name": "connect-placeholderimg",
   "version": "0.0.1",
   "description": "A connect middleware to generate placeholder images",
   "main": "index.js",
