@@ -1,0 +1,16 @@
+{
+  "name": "placeholderimg-middleware",
+  "version": "0.0.1",
+  "description": "A connect middleware to generate placeholder images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Solazzi",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "promise": "^6.0.1",
+    "pureimage": "0.0.11"
+  }
+}
